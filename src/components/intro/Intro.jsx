@@ -11,9 +11,12 @@ const Intro = () => {
           <div className="i-title">
             <div className="i-title-wrapper">
               <div className="i-title-item">Consultante</div>
-              <div className="i-title-item">Formatrice en marketing</div>
-              <div className="i-title-item">Techniques de communication</div>
-              <div className="i-title-item">Techniques des ventes</div>
+              <div className="i-title-item">Formatrice </div>
+              <div className="i-title-item"> en marketing</div>
+              <div className="i-title-item"> Techniques </div>
+              <div className="i-title-item">  de communication</div>
+              <div className="i-title-item">Techniques </div>
+              <div className="i-title-item">  des ventes </div>
               <div className="i-title-item">Encadrement des PFE</div>
               <div className="i-title-item">Masters , licences</div>
             </div>
