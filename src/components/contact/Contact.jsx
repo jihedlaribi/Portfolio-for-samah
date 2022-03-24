@@ -35,14 +35,14 @@ const Contact = () => {
         <div className="c-left">
           <h1 className="c-title">Le secret de notre réussite "La communication"</h1>
           <div className="c-info">
-            <div className="c-info-item">
+            <a className="c-info-item" href="tel:+21695898418" >
               <img src={Phone} alt="" className="c-icon" />
              +21695898418
-            </div>
-            <div className="c-info-item">
+            </a>
+            <a className="c-info-item" href="mailto:hamdisamah7@gmail.com">
               <img className="c-icon" src={Email} alt="" />
               hamdisamah7@gmail.com
-            </div>
+            </a>
             <div className="c-info-item">
               <img className="c-icon" src={Address} alt="" />
               Kebili
